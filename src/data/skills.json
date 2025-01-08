@@ -1,0 +1,39 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "/images/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "/images/skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "/images/skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "/images/skills/node.png"
+  },
+  {
+    "title": "JAVASCRIPT",
+    "imageSrc": "/images/skills/javascript.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "/images/skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "/images/skills/Mysql.jpeg"
+  },
+  {
+    "title": "Socket.io",
+    "imageSrc": "/images/skills/SocketIo.jpeg"
+  },
+  { "title": "POSTMAN", "imageSrc": "/images/skills/postman.jpeg" },
+  {
+    "title": "EXPRESS JS",
+    "imageSrc": "/images/skills/Express JS.jpeg"
+  }
+]

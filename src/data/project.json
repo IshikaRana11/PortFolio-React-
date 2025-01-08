@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Google Quick Lab",
+    "imageSrc": "/images/project/project.png",
+    "description": "These are the labs to learn google cloud technology using Quick Labs.",
+    "skills": ["Cloud fundamentals", "ML fundamentals", "Big data"],
+    "demo": "https://www.cloudskillsboost.google/public_profiles/f7e9bdcb-bc2e-4786-b419-b729f994fae8",
+    "source": "https://www.cloudskillsboost.google/"
+  },
+  {
+    "title": "Talk-A-Tive",
+    "imageSrc": "/images/project/project.png",
+    "description": "This is a chatting application made to learn the MERN stack ,Restful api and socket.io.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/IshikaRana11/Chat-App"
+  },
+  {
+    "title": "Collab Sketch",
+    "imageSrc": "/images/project/project.png",
+    "description": "This is a project made to learn the React using NextJS by building an app.",
+    "skills": ["React", "Firebase", "NextJS"],
+    "demo": "https://collab-sketch-seven.vercel.app/",
+    "source": "https://github.com/IshikaRana11"
+  }
+]
