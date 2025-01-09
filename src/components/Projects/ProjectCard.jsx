@@ -17,13 +17,10 @@ export default function ProjectCard({ project }) {
         ))}
       </ul>
       <div className={styles.links}>
-        <a
-          href="https://www.cloudskillsboost.google/public_profiles/f7e9bdcb-bc2e-4786-b419-b729f994fae8"
-          className={styles.link}
-        >
+        <a href={demo} className={styles.link}>
           Demo
         </a>
-        <a href="https://www.cloudskillsboost.google/" className={styles.link}>
+        <a href={source} className={styles.link}>
           Source
         </a>
       </div>

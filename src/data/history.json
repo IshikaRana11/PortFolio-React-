@@ -1,6 +1,6 @@
 [
   {
-    "role": "Google Cloud Trainee",
+    "role": " Cloud Trainee",
     "organisation": "Google",
     "startDate": "December, 2022",
     "endDate": "January,2023",
@@ -12,21 +12,21 @@
   },
   {
     "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "organisation": "SAKHA",
+    "startDate": "February 2023",
+    "endDate": "JULY, 2023",
+    "experiences": [
+      "Member of Technical Team of Sakha",
+      "Designed UI for the website"
+    ],
     "imageSrc": "/images/history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
+    "role": "Core Technical Member",
+    "organisation": "IEEE CLUB Graphic Era",
+    "startDate": "November, 2024",
+    "endDate": "Current",
+    "experiences": ["Worked on MongoDB database"],
     "imageSrc": "/images/history/netflix.png"
   }
 ]

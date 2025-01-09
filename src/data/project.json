@@ -12,7 +12,7 @@
     "imageSrc": "/images/project/project.png",
     "description": "This is a chatting application made to learn the MERN stack ,Restful api and socket.io.",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
+    "demo": "https://github.com/IshikaRana11/Chat-App",
     "source": "https://github.com/IshikaRana11/Chat-App"
   },
   {
